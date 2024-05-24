@@ -9,8 +9,7 @@
 
 body {
     height: 100vh;
-    background: rgb(229,34,70);
-    background: linear-gradient(0deg, rgba(229,34,70,1) 0%, rgba(254,100,111,1) 100%);
+    background-image: linear-gradient(to bottom, #fe646f, #f85665, #f2485a, #ec3750, #e52246);
 }
 
 .nav {
